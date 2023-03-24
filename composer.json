@@ -25,7 +25,7 @@
     "require-dev": {
         "mockery/mockery": "^1.0",
         "phpunit/phpunit": "^7.5.15|^8.4|^9.0",
-        "wpstarter/testbench": "^1.0"
+        "wpstarter/o-testbench": "^1.0"
     },
     "suggest": {
         "ext-pcntl": "Used to gracefully terminate Dusk when tests are running."
