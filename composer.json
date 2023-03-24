@@ -41,9 +41,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "6.x-dev"
-        },
         "wpstarter": {
             "providers": [
                 "Laravel\\Dusk\\DuskServiceProvider"
